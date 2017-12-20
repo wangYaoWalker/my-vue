@@ -1,11 +1,10 @@
 {
-  "name": "Caretaker",
+  "name": "my-vue-pc",
   "version": "1.0.0",
-  "description": "Caretaker project",
+  "description": "my-vue-pc project",
   "author": "",
   "license": "MIT",
   "scripts": {
-    "devOld": "node build/dev-server.js",
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "start": "npm run dev",
     "build": "node build/build.js"
